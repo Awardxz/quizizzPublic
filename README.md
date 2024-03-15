@@ -1,4 +1,5 @@
 # Quizizz Cheat
+(obfuscated because don't want it to get patched easily and no pasting)
 ## New Update #1
 New Branch Created QuizizzV2. Uses the same method by using quizit.online api but shows answers on the screen this time :).
 ## Why i made it
